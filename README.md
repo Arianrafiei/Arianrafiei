@@ -50,10 +50,6 @@
 
 ###
 
-<br clear="both">
-
-###
-
 <img align="right" src="https://profile-counter.glitch.me/Arianrafiei/count.svg?"  />
 
 ###
