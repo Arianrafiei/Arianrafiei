@@ -49,9 +49,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Arianrafiei/Arianrafiei/output/snake.svg" alt="Snake animation" />
 
 ###
 
