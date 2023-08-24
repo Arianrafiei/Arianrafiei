@@ -31,7 +31,6 @@
 </div>
 
 ###
-<br clear="both">
 
 <div align="center">
   <a href="mailto:ArianRafiei@gmail.com" target="_blank">
@@ -47,6 +46,12 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="65" height="35" alt="twitter logo"  />
   </a>
 </div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Arianrafiei/Arianrafiei/output/snake.svg" alt="Snake animation" />
 
 ###
 
