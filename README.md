@@ -39,7 +39,7 @@
   <a href="https://www.linkedin.com/in/arian-rafiei-81b596286/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="65" height="35" alt="linkedin logo"  />
   </a>
-  <a href="https://t.m/ArianRafiei" target="_blank">
+  <a href="https://t.me/senior_code" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="65" height="35" alt="telegram logo"  />
   </a>
   <a href="https://twitter.com/ArianRafiei" target="_blank">
