@@ -10,7 +10,7 @@
 
 ###
 
-<img align="right" height="150" src="https://github.com/Arianrafiei/twitterIndex/blob/main/src/media/logo.jpg?raw=true"  />
+<img align="right" height="150" src="https://raw.githubusercontent.com/Arianrafiei/twitterIndex/main/media/logo.jpg"  />
 
 ###
 
