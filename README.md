@@ -27,7 +27,7 @@
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=wordpress" height="35" alt="wordpress logo"  />
   <img width="20" />
-  <img src="[https://skillicons.dev/icons?i=ps](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNQ6ZmsiCzSC16bStr1KjZNcIBW5hAMa1ek6xoNeSSw5wQouq_N7dQCxlxI02TIeZk1e0&usqp=CAU)" height="35" alt="react logo"  />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNQ6ZmsiCzSC16bStr1KjZNcIBW5hAMa1ek6xoNeSSw5wQouq_N7dQCxlxI02TIeZk1e0&usqp=CAU" height="35" alt="react logo"  />
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=ps" height="35" alt="adobephotoshop logo"  />
 </div>
