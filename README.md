@@ -34,6 +34,8 @@
 
 ###
 
+<h2 aline="left">Contact:</h2>
+
 <div align="center">
   <a href="mailto:ArianRafieiMe@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="65" height="35" alt="gmail logo"  />
