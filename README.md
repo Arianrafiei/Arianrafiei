@@ -14,7 +14,9 @@
 
 ###
 
-<div align="center">
+<h2 aline="left">Skills:</h2>
+
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo"  />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css3 logo"  />
@@ -36,7 +38,7 @@
 
 <h2 aline="left">Contact:</h2>
 
-<div align="center">
+<div align="left">
   <a href="mailto:ArianRafieiMe@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="65" height="35" alt="gmail logo"  />
   </a>
