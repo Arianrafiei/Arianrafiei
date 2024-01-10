@@ -27,13 +27,15 @@
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=wordpress" height="35" alt="wordpress logo"  />
   <img width="20" />
+  <img src="[https://skillicons.dev/icons?i=ps](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNQ6ZmsiCzSC16bStr1KjZNcIBW5hAMa1ek6xoNeSSw5wQouq_N7dQCxlxI02TIeZk1e0&usqp=CAU)" height="35" alt="react logo"  />
+  <img width="20" />
   <img src="https://skillicons.dev/icons?i=ps" height="35" alt="adobephotoshop logo"  />
 </div>
 
 ###
 
 <div align="center">
-  <a href="mailto:ArianRafiei@gmail.com" target="_blank">
+  <a href="mailto:ArianRafieiMe@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="65" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/arian-rafiei-81b596286/" target="_blank">
