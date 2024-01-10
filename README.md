@@ -14,7 +14,7 @@
 
 ###
 
-<h2 aline="left">Skills:</h2>
+<h2 align="left">Skills:</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo"  />
@@ -36,7 +36,7 @@
 
 ###
 
-<h2 aline="left">Contact:</h2>
+<h2 align="left">Contact:</h2>
 
 <div align="left">
   <a href="mailto:ArianRafieiMe@gmail.com" target="_blank">
@@ -59,6 +59,8 @@
 
 ###
 
-<img align="right" src="https://profile-counter.glitch.me/Arianrafiei/count.svg?"  />
+<h3 align="left">Views this profile:</h3>
+
+<img align="left" src="https://profile-counter.glitch.me/Arianrafiei/count.svg?"  />
 
 ###
