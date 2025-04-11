@@ -1,11 +1,14 @@
+<!-- English Section -->
 <h1 align="center">Hi 👋, I'm Arian Rafiei</h1>
-<h3 align="center">🚀 A passionate Front-End Developer on a mission to craft clean, responsive and interactive user experiences.</h3>
+<h3 align="center">🚀 A passionate Front-End Developer on a mission to craft clean, responsive, and interactive user experiences.</h3>
 
-<img src="https://github.com/Arianrafiei/Arianrafiei/blob/main/bannerProfile.png?raw=true" alt="arianrafiei" />
+<p align="center">
+  <img src="https://github.com/Arianrafiei/Arianrafiei/blob/main/bannerProfile.png?raw=true" alt="Arian Rafiei Banner" />
+</p>
 
 <p align="center">
   <a href="https://github.com/Arianrafiei" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=arianrafiei&label=Profile%20views&color=0e75b6&style=flat" alt="arianrafiei" />
+    <img src="https://komarev.com/ghpvc/?username=arianrafiei&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
   </a>
 </p>
 
@@ -14,7 +17,7 @@
 ### 🧰 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,wordpress,ps" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,wordpress,ps" alt="Tech Stack" />
 </div>
 
 ---
@@ -56,6 +59,7 @@
 ---
 
 ### 🎨 Fun Fact
+
 ```js
 const life = () => {
   while(!success) {
