@@ -1,66 +1,64 @@
-<h2 align="left">Hi 👋! My name is Arian Rafiei and I'm a Front-End developer.</h2>
+<h1 align="center">Hi 👋, I'm Arian Rafiei</h1>
+<h3 align="center">🚀 A passionate Front-End Developer on a mission to craft clean, responsive and interactive user experiences.</h3>
 
-###
+<p align="center">
+  <a href="https://github.com/Arianrafiei" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=arianrafiei&label=Profile%20views&color=0e75b6&style=flat" alt="arianrafiei" />
+  </a>
+</p>
+
+---
+
+### 🧰 Tech Stack
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arianrafiei&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Arianrafiei&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Arianrafiei&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,wordpress,ps" />
 </div>
 
-###
+---
 
-<img align="right" height="150" src="https://raw.githubusercontent.com/Arianrafiei/twitterIndex/main/media/logo.jpg"  />
+### 📊 GitHub Stats
 
-###
-
-<h2 align="left">Skills:</h2>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css3 logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="35" alt="bootstrap logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="35" alt="tailwindcss logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=wordpress" height="35" alt="wordpress logo"  />
-  <img width="20" />
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNQ6ZmsiCzSC16bStr1KjZNcIBW5hAMa1ek6xoNeSSw5wQouq_N7dQCxlxI02TIeZk1e0&usqp=CAU" height="35" alt="react logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=ps" height="35" alt="adobephotoshop logo"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Arianrafiei&show_icons=true&theme=radical&count_private=true&include_all_commits=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arianrafiei&layout=compact&theme=radical&langs_count=8" height="180" />
 </div>
 
-###
+---
 
-<h2 align="left">Contact:</h2>
+### 🔥 GitHub Streak
 
-<div align="left">
-  <a href="mailto:ArianRafieiMe@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="65" height="35" alt="gmail logo"  />
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Arianrafiei&theme=radical&hide_border=false" height="180" />
+</p>
+
+---
+
+### 📫 Contact Me
+
+<div align="center">
+  <a href="mailto:ArianRafieiMe@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/arian-rafiei-81b596286/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="65" height="35" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/arian-rafiei-81b596286/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://t.me/senior_code" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="65" height="35" alt="telegram logo"  />
+  <a href="https://t.me/senior_code">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="https://twitter.com/ArianRafiei" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="65" height="35" alt="twitter logo"  />
+  <a href="https://twitter.com/ArianRafiei">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </div>
 
-###
+---
 
-<br clear="both">
-
-###
-
-<h3 align="left">Views this profile:</h3>
-
-<img align="left" src="https://profile-counter.glitch.me/Arianrafiei/count.svg?"  />
-
-###
+### 🎨 Fun Fact
+```js
+const life = () => {
+  while(!success) {
+    tryAgain();
+    improveSkills();
+    neverGiveUp();
+  }
+}
