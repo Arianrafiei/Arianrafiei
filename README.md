@@ -62,6 +62,7 @@
 </div>
 
 ---
+[Check out my Snake Animation](https://github.com/Arianrafiei/Arianrafiei/blob/e7ce7421964a6339971b4ad596d5163c24138a7c/SnakeAnimation.html)
 
 ### 🎨 Fun Fact
 
@@ -73,5 +74,3 @@ const life = () => {
     neverGiveUp();
   }
 }
-
-[Check out my Snake Animation](https://github.com/Arianrafiei/Arianrafiei/blob/e7ce7421964a6339971b4ad596d5163c24138a7c/SnakeAnimation.html)
