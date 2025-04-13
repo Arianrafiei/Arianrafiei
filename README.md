@@ -63,8 +63,6 @@
 
 ---
 
-<iframe src="https://raw.githubusercontent.com/Arianrafiei/Arianrafiei/2a86b88ed8080b58e0d97a614c5802ab7de24e97/SnakeAnimation.html" width="400" height="200"></iframe>
-
 ### 🎨 Fun Fact
 
 ```js
@@ -75,3 +73,5 @@ const life = () => {
     neverGiveUp();
   }
 }
+
+[Check out my Snake Animation](https://Arianrafiei.github.io/SnakeAnimation/)
